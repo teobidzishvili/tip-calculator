@@ -25,8 +25,8 @@ Users are able to:
 ### Screenshots
 
 ![](./design/desktop-design-empty.jpg)
-![](./design/active-states.jpg)
 ![](./design/desktop-design-completed.jpg)
+![](./design/active-states.jpg)
 ![](./design/mobile-design.jpg)
 
 ## My process
