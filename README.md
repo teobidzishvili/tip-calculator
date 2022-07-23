@@ -44,4 +44,4 @@ Users are able to:
 
 ### What I learned
 
-How DOM and Javascript works together. Where is the line between them, as while learnin it was not clear, until I use both of them together
+How DOM and Javascript works together. Where is the line between, as while learning it wasn't, until I work with both of them at the same time
